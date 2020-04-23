@@ -4,8 +4,8 @@ The purpose was to practice html and css, especially positioning.
 
 Here are some comparison screenshots.
 
-![Comparison 1](/images/comparison1.png?raw=true)
+![Comparison 1](/image/comparison1.png?raw=true)
 
-![Comparison 2](/images/comparison2.png?raw=true)
+![Comparison 2](/image/comparison2.png?raw=true)
 
-![Comparison 3](/images/comparison3.png?raw=true)
+![Comparison 3](/image/comparison3.png?raw=true)
